@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="git@github.com:RamyB2014/122957.git" SourceSourceControlDatabaseRoot="git@github.com:RamyB2014/122957.git" SourceProjectGuid="fb984e3f-e953-4204-9e83-bf274fec5f29" SourceControlDatabaseRoot="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject261.liprjf" SourceControlDatabase="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject261.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="fe7b57f6-38ae-4630-b7f7-2a3666c0aafa">
+    <ProjectFile Source="Target/twoTopics3.flprj" Target="Target/twoTopics3.flprj" />
+</LingoProject>
